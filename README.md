@@ -1,1 +1,1 @@
-# this is a readme file -- eventually something cool to explain, not yet though!
+# this is just a sandbox for me to learn rails -- for now
